@@ -1,2 +1,2 @@
 # weather_forecast
-Aplicativo de previsão de tempo construído em React Native.
+Aplicativo React Native de previsão de tempo, com pesquisas de cidades em tempo real e com buscas em API.
